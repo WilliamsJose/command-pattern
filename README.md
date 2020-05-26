@@ -39,9 +39,9 @@
 
 
 ### Exemplo: 
-[Command Pattern UML.jpg](./CommandPattern.jpg)
+[Command Pattern UML.jpg](CommandPattern.jpg)
 
-[Source files](./src)
+[Source files](src)
 
 
 ### Referências:
