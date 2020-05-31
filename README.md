@@ -7,7 +7,7 @@
 * Drª Alana Morais ([alanamm.prof@gmail.com](mailto:alanamm.prof@gmail.com))
 
 ### Aluno
-* Williams José de Aguiar Silva [contatowilliamsj@gmail.com](mailto:contatowilliamsj@gmail.com?subject=[GitHub]%20Command%20Pattern)
+* Williams José de Aguiar Silva ([contatowilliamsj@gmail.com](mailto:contatowilliamsj@gmail.com?subject=[GitHub]%20Command%20Pattern))
 
 
 ### Padrão Comportamental: 
@@ -39,7 +39,7 @@
 
 
 ### Exemplo: 
-[Command Pattern UML.jpg](CommandPattern.jpg)
+![Command Pattern UML.jpg](CommandPattern.jpg)
 
 [Source files](src)
 
